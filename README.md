@@ -34,19 +34,19 @@ Tento projekt je uvolněn pod licencí **SPL-NC (Student Project License – Non
 
 ### Podmínky použití:
 
-- 📘 **Je dovoleno**:
+- **Je dovoleno**:
   - používat projekt pro studijní a výukové účely,
   - upravovat zdrojové kódy,
   - vytvářet odvozené práce,
   - šířit projekt mezi studenty a akademickou veřejností,
   - odkazovat na tento projekt.
 
-- 🚫 **Není dovoleno**:
+- **Není dovoleno**:
   - používat projekt pro **komerční účely** bez předchozího souhlasu autora,
   - prodávat zařízení založená na tomto projektu,
   - využívat projekt v komerčních produktech nebo službách.
 
-- 📎 **Podmínky**:
+- **Podmínky**:
   - Musí být zachováno jméno autora (Kroužil).
   - Musí být zachována tato licence.
   - Odvozené práce musí uvádět, že vychází z tohoto projektu.
