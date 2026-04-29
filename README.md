@@ -1,3 +1,14 @@
+<!-- prevent jekyll yaml parsing -->
+
+  **Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, Ústav radioelektroniky, 2025/2026**  
+
+---
+
+# Systém pro zobrazení EKG a PPG signálu a měření tepové frekvence. 
+
+---
+  
+  
   **Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, Ústav radioelektroniky, 2025/2026** 
 ---  
 # Bakalářská práce: Laboratorní úloha pro hodnocení vizuální kvality komprimovaných obrazů pomocí objektivních a subjektivních metrik
