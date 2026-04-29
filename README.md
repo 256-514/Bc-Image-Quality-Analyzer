@@ -27,6 +27,8 @@ Pro běžné používání aplikací **není vyžadována** instalace plného pr
 # Informace pro vývojáře
 V případě zájmu o nahlédnutí nebo úpravu aplikací jsou zdrojové kódy dostupné jako samostatné ZIP archivy v sekci *[Releases (v1.1)](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)*.
 
+---
+
 ## Licence
 Tento projekt je uvolněn pod licencí **SPL-NC (Student Project License – Non-Commercial)**.
 
