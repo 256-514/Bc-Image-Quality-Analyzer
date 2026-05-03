@@ -36,6 +36,8 @@ Pro běžné používání aplikací **není vyžadována** instalace plného pr
 > Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 <img src="images/libs_download.png" alt="top level block diagram" width="450"/>
 
+<img src="images/jojo.avif" alt="top level block diagram" width="450"/>
+
 ---
 
 ## Prohlášení o využití generativní umělé inteligence
