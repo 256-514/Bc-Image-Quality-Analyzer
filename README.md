@@ -30,7 +30,7 @@ Licence: MIT
 Pro běžné používání aplikací **není vyžadována** instalace plného programu MATLAB.
 - Stáhněte si [instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1) *(.exe)*.
 - Spusťte instalátor. Pro běh aplikace postačí samostatné prostředí MATLAB Runtime. Toto prostředí je součástí instalačního balíčku a v případě potřeby se nainstaluje automaticky.
-<img src="images/matlab_runtime_install.png" alt="top level block diagram" width="800"/>
+<img src="images/matlab_runtime_install.png" alt="top level block diagram" width="600"/>
 > [!IMPORTANT]   
 > Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 
