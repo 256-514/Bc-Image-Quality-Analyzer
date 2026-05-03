@@ -40,7 +40,7 @@ Obr. 1 Instalace MATLAB Runtime
 > [!IMPORTANT]   
 > Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 <div align="center">
-<img src="images/libs_download.png" alt="top level block diagram" width="450"/>
+<img src="images/libs_download.avif" alt="top level block diagram" width="450"/>
 
 Obr. 2 Stahování doplňkových knihoven
 </div>
