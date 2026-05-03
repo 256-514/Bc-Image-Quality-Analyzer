@@ -34,6 +34,7 @@ Pro běžné používání aplikací **není vyžadována** instalace plného pr
 <img src="images/matlab_runtime_install.png" alt="top level block diagram" width="750"/>
 </div>
 
+
 > [!IMPORTANT]   
 > Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 <div align="center">
