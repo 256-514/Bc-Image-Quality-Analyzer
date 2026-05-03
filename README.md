@@ -22,9 +22,8 @@ Tento repozitář obsahuje veškeré zdrojové kódy, instalační balíčky, ma
 Pro běžné používání aplikací **není vyžadována** instalace plného programu MATLAB.
 - Stáhněte si [instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1) *(.exe)*.
 - Spusťte instalátor. Pro běh aplikace postačí samostatné prostředí MATLAB Runtime. Toto prostředí je součástí instalačního balíčku a v případě potřeby se nainstaluje automaticky.
-- ⚠️ Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
-> [!UPOZORNĚNÍ]  
-> Crucial information necessary for users to succeed.
+> [!IMPORTANT]   
+> Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 
 ## Informace pro vývojáře
 V případě zájmu o nahlédnutí nebo úpravu aplikací jsou zdrojové kódy dostupné jako samostatné ZIP archivy v sekci *[Releases (v1.1)](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)*.
