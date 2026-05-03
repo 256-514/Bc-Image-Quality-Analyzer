@@ -15,8 +15,8 @@ Licence: MIT
 
 ## Obsah repozitáře
 - **Zdrojové kódy:** MATLAB skripty pro obě vytvořené aplikace (vyvinuto v prostředí MATLAB R2023b).
-- ***[Instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases)***: Zkompilované verze aplikací připravené pro běžné uživatele (dostupné v sekci *[Releases](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases)*).
-- **Výsledky subjektivních testů:** Tabulka s odpověďmi všech respondentů (dostupné v *[repozitáři](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases)*).
+- ***[Instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)***: Zkompilované verze aplikací připravené pro běžné uživatele
+- ***[Výsledky subjektivních testů](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases)***: Tabulka s odpověďmi všech respondentů.
 
 ## Popis aplikací
 - **Objektivní metriky** – aplikace zaměřená na automatizovanou komprimaci obrazu vybranými kodeky a následný výpočet objektivních metrik kvality.
