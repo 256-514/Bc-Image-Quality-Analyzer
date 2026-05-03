@@ -9,6 +9,10 @@
 
 Tento repozitář obsahuje veškeré zdrojové kódy, instalační balíčky, materiály a naměřená data z praktické části bakalářské práce zaměřené na hodnocení kvality obrazu pomocí objektivních a subjektivních metrik. Cílem repozitáře je zajistit plnou reprodukovatelnost dosažených výsledků a usnadnit případný další vývoj.
 
+Autor: Daniel Kroužil
+Akademický rok: 2025/2026
+Licence: MIT
+
 ## Obsah repozitáře
 - **Zdrojové kódy:** MATLAB skripty pro obě vytvořené aplikace (vyvinuto v prostředí MATLAB R2023b).
 - **Výsledky subjektivních testů:** Kompletní naměřená data, vyexportované tabulky a materiály ze subjektivního testování.
@@ -29,28 +33,3 @@ Pro běžné používání aplikací **není vyžadována** instalace plného pr
 V případě zájmu o nahlédnutí nebo úpravu aplikací jsou zdrojové kódy dostupné jako samostatné ZIP archivy v sekci *[Releases (v1.1)](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)*.
 
 ---
-
-## Licence
-Tento projekt je uvolněn pod licencí **SPL-NC (Student Project License – Non-Commercial)**.
-
-### Podmínky použití:
-
-- **Je dovoleno**:
-  - používat projekt pro studijní a výukové účely,
-  - upravovat zdrojové kódy,
-  - vytvářet odvozené práce,
-  - šířit projekt mezi studenty a akademickou veřejností,
-  - odkazovat na tento projekt.
-
-- **Není dovoleno**:
-  - používat projekt pro **komerční účely** bez předchozího souhlasu autora,
-  - prodávat zařízení založená na tomto projektu,
-  - využívat projekt v komerčních produktech nebo službách.
-
-- **Podmínky**:
-  - Musí být zachováno jméno autora (Kroužil).
-  - Musí být zachována tato licence.
-  - Odvozené práce musí uvádět, že vychází z tohoto projektu.
-
-### © 2026 Autor projektu  
-Daniel Kroužil
