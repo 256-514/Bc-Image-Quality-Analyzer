@@ -18,9 +18,13 @@ Licence: MIT
 - ***[Instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)***: Zkompilované verze aplikací připravené pro běžné uživatele.
 - ***[Výsledky subjektivních testů](https://github.com/256-514/Bc-Image-Quality-Analyzer/raw/refs/heads/main/Vysledky_Subjektivniho_Testovani.xlsx)***: Tabulka s hodnocením od 26 respondentů získaným prostřednictvím Google Forms.
 
+---
+
 ## Popis aplikací
 - **Objektivní metriky** – aplikace zaměřená na automatizovanou komprimaci obrazu vybranými kodeky a následný výpočet objektivních metrik kvality.
 - **Subjektivní testy** – aplikace sloužící pro uživatelské hodnocení vizuální kvality komprimovaných obrazů.
+
+---
 
 ## Instalace a první spuštění aplikací
 Pro běžné používání aplikací **není vyžadována** instalace plného programu MATLAB.
@@ -30,3 +34,13 @@ Pro běžné používání aplikací **není vyžadována** instalace plného pr
 > Při úplně prvním spuštění nainstalované aplikace je vyžadováno připojení k internetu. Aplikace si automaticky stáhne nezbytné [doplňkové knihovny](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.0) pro práci s multimédii (FFmpeg a heif-enc). Velikost stahovaných dat je přibližně 100 MB.
 
 ---
+
+## Prohlášení o využití generativní umělé inteligence
+Při zpracování této bakalářské práce byly nástroje generativní umělé inteligence využity výhradně jako konzultační a asistenční prostředek, a to v souladu se směrnicemi VUT.
+
+AI nástroje byly používány výhradně pro:
+- jazykové korektury a stylistické úpravy textu,
+- refaktorizace zdrojových kódů,
+- konzultace při strukturování GitHub repozitáře a kompilaci aplikací do spustitelného formátu.
+
+Veškerá inženýrská rozhodnutí (návrh měřicí metodiky, výběr použitých objektivních a subjektivních metrik, vytvoření datasetu, realizace subjektivního testování i finální analýza a interpretace naměřených dat) byly provedeny autorem práce.
