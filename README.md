@@ -14,7 +14,7 @@ Akademický rok: 2025/2026
 Licence: MIT  
 
 ## Obsah repozitáře
-- **Zdrojové kódy:** MATLAB skripty pro obě vytvořené aplikace (vyvinuto v prostředí MATLAB R2023b).
+- ***[Zdrojové kódy](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)***: MATLAB skripty pro obě vytvořené aplikace (vyvinuto v prostředí MATLAB R2023b).
 - ***[Instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)***: Zkompilované verze aplikací připravené pro běžné uživatele
 - ***[Výsledky subjektivních testů](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases)***: Tabulka s odpověďmi všech respondentů.
 
