@@ -41,6 +41,6 @@ Při zpracování této bakalářské práce byly nástroje generativní umělé
 AI nástroje byly používány výhradně pro:
 - jazykové korektury a stylistické úpravy textu,
 - refaktorizace zdrojových kódů,
-- konzultace při strukturování GitHub repozitáře a kompilaci aplikací do spustitelného formátu.
+- konzultace při strukturování GitHub repozitáře a sestavení zdrojových kódů do samostatně spustitelných (standalone) aplikací.
 
 Veškerá inženýrská rozhodnutí (návrh měřicí metodiky, výběr použitých objektivních a subjektivních metrik, vytvoření datasetu, realizace subjektivního testování i finální analýza a interpretace naměřených dat) byly provedeny autorem práce.
