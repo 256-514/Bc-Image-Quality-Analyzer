@@ -44,3 +44,5 @@ AI nástroje byly používány výhradně pro:
 - konzultace při sestavení zdrojových kódů do samostatně spustitelných (standalone) aplikací a strukturování GitHub repozitáře.
 
 Veškerá inženýrská rozhodnutí (návrh měřicí metodiky, výběr použitých objektivních a subjektivních metrik, vytvoření datasetu, realizace subjektivního testování i finální analýza a interpretace naměřených dat) byly provedeny autorem práce.
+
+---
