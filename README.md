@@ -1,6 +1,6 @@
 <!-- prevent jekyll yaml parsing -->
 
-  **Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, Ústav radioelektroniky, 2025/2026**  
+  **Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, Ústav radioelektroniky**  
 
 ---
 
