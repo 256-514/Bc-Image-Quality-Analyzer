@@ -29,7 +29,7 @@ Licence: MIT
 ## Instalace a první spuštění aplikací
 Pro běžné používání aplikací **není vyžadována** instalace plného programu MATLAB.
 - Stáhněte si [instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1) *(.exe)*.
-- Spusťte instalátor. Pro běh aplikace postačí samostatné prostředí MATLAB Runtime. Toto prostředí je součástí instalačního balíčku a v případě potřeby se nainstaluje automaticky.
+- Spusťte instalátor a zvolte složku, kam se má aplikace nainstalovat. Pro běh aplikace postačí samostatné prostředí MATLAB Runtime. Toto prostředí je součástí instalačního balíčku a v případě potřeby se nainstaluje automaticky.
 <div align="center">
 <img src="images/matlab_runtime_install.png" alt="top level block diagram" width="800"/>
  
