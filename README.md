@@ -47,6 +47,18 @@ Obr. 2 Stahování doplňkových knihoven
 
 ---
 
+## Licence a použité knihovny
+Tento repozitář je vydán pod licencí MIT.
+
+Součástí projektu jsou také externí knihovny třetích stran, které jsou použity v souladu s jejich vlastními licenčními podmínkami:
+- **matlabPyrTools** – knihovna pro vícestupňové obrazové transformace a práci s pyramidami; použita pro výpočet metriky VIF. Projekt je dostupný na GitHubu a je licencován pod MIT licencí.
+- **FFmpeg** – použito pro převod komprimovaných obrazů do PNG formátu při práci s kodeky, které MATLAB nenačte přímo. FFmpeg je licencován pod LGPL v2.1+.
+- **heif-enc / libheif** – použito pro kompresi do formátu HEIC. Tento nástroj je součástí distribuovaných doplňkových knihoven aplikace a je použit v souladu s licenčními podmínkami příslušné knihovny.
+
+Při použití těchto knihoven jsou zachovány jejich původní licence a copyright notice. Kompletní přehled třetích stran je uveden také v příslušných zdrojových souborech a v dokumentaci projektu.
+
+---
+
 ## Prohlášení o využití generativní umělé inteligence
 Při zpracování této bakalářské práce byly nástroje generativní umělé inteligence využity výhradně jako konzultační a asistenční prostředek, a to v souladu se směrnicemi VUT.
 
