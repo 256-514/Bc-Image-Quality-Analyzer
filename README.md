@@ -51,7 +51,7 @@ Obr. 2 Stahování doplňkových knihoven
 Tento repozitář je vydán pod licencí MIT.
 
 Součástí projektu jsou také externí knihovny třetích stran, které jsou použity v souladu s jejich vlastními licenčními podmínkami:
-- **FFmpeg** – použito pro převod komprimovaných obrazů do PNG formátu při práci s kodeky, které MATLAB nenačte přímo. FFmpeg je licencován pod LGPL v2.1+.
+- **[FFmpeg](https://ffmpeg.org/ffmpeg.html#Transcoding)** – použito pro převod komprimovaných obrazů do PNG formátu při práci s kodeky, které MATLAB nenačte přímo. FFmpeg je licencován pod LGPL v2.1+.
 - **heif-enc / libheif** – použito pro kompresi do formátu HEIC. Tento nástroj je součástí distribuovaných doplňkových knihoven aplikace a je použit v souladu s licenčními podmínkami příslušné knihovny.
 - **[matlabPyrTools](https://github.com/baidut/matLIVE)** – knihovna pro vícestupňové obrazové transformace; použita pro výpočet metriky VIF. Projekt je dostupný na GitHubu a je licencován pod MIT licencí.
 
