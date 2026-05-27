@@ -17,7 +17,7 @@ Licence: MIT
 - **[Zdrojové kódy](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)**: MATLAB skripty pro obě vytvořené aplikace (vyvinuto v prostředí MATLAB R2023b).
 - **[Instalační balíčky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1)**: Zkompilované verze aplikací připravené pro běžné uživatele.
 - **[Výsledky subjektivních testů](https://github.com/256-514/Bc-Image-Quality-Analyzer/raw/refs/heads/main/Vysledky_Subjektivniho_Testovani.xlsx)**: Tabulka s hodnocením od 26 respondentů získaným prostřednictvím Google Forms.
-- **[Obrázky](https://github.com/256-514/Bc-Image-Quality-Analyzer/raw/refs/heads/main/Vysledky_Subjektivniho_Testovani.xlsx)** použité pro testování kompresních algoritmů.
+- **[Obrázky](https://github.com/256-514/Bc-Image-Quality-Analyzer/releases/tag/v1.1-images)** použité pro testování kompresních algoritmů.
 
 ---
 
